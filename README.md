@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning java  
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me , you can find me on twitter : @ChupkoIgnatov
-
+- lets connect 
+- i like to drink rakia and reed books 
 
 <!---
 chupko1/chupko1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
